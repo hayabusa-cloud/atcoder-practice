@@ -1,0 +1,1 @@
+Go1.18 With Genericsを期待しています。
